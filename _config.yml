@@ -1,21 +1,27 @@
+remote_theme: alexcarpenter/material-jekyll-theme
+title: Islandora Collaboration Group (ICG)
+url:              ''
+baseurl:          ''
+
+
 # Welcome to Jekyll!
 
 # This config file is meant for settings that affect your whole blog, values which you are expected to set up once and rarely edit after that. If you find yourself editing this file very often, consider using Jekyll's data files feature for the data you need to update frequently.
 
 # Site settings
-title:            Martha Tenney
-email:            mtenney@barnard.edu
-description:      How do you work this thing
-url:              ''
-baseurl:          ''
+# title:            Martha Tenney
+# email:            mtenney@barnard.edu
+# description:      How do you work this thing
+# url:              ''
+# baseurl:          ''
 
-twitter_username: barnardarchives
-github_username:  MarthaTenney
+# twitter_username: barnardarchives
+# github_username:  MarthaTenney
 
 # Build settings
-markdown:         kramdown
-remote_theme:     broccolini/athena
-permalink:        pretty
-exclude:          [Gemfile*, vendor, README.md, docs]
-plugins:          [jekyll-feed]
-github:           [metadata]
+# markdown:         kramdown
+# remote_theme:     broccolini/athena
+# permalink:        pretty
+# exclude:          [Gemfile*, vendor, README.md, docs]
+# plugins:          [jekyll-feed]
+# github:           [metadata]
